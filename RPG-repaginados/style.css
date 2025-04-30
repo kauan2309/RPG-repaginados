@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+body{
+    display: list-item;
+    height: 100vh;
+    align-items: center;
+    justify-items: center;
+}
+main{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+section{
+    display: block;
+}   
+div{
+    display: flex;
+    border:solid red 3px;
+    height: 150px;
+    width: 150px;
+    margin: 10px 5px;
+}
+article{
+    display: flex;
+    align-items: center;
+
+}
